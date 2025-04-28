@@ -1,0 +1,8 @@
+# Basic dependencies
+pandas
+customtkinter
+Pillow
+
+# U.are.U Fingerprint Reader dependencies
+dpfpdd    # Digital Persona Fingerprint Device Driver
+dpfj      # Digital Persona FingerJet (template extraction and matching)
